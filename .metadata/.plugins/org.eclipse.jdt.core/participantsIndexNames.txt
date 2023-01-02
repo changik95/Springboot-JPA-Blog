@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+C:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1384358514.index
+\doldolseo\src\main\java
+C:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\6192106.index
+\doldolseo\src\main\java
+C:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3030308663.index
+\doldolseo\src\main\java
+C:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\632235179.index
+\doldolseo\src\main\java
+C:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\410602054.index
+\doldolseo\src\main\java
+C:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2621616727.index
+\doldolseo\src\main\java
+C:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3265253261.index
+\doldolseo\src\main\java
+C:\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\167313492.index
+\doldolseo\src\main\java

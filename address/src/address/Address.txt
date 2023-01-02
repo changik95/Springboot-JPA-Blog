@@ -1,0 +1,21 @@
+[ address - 주소록 관리 프로그램 ]
+전화번호, 주소등의 등록, 수정, 삭제, 검색 프로그램
+
+address.main = main,UI // address.dao = DAO // address.vo = VO 패키지 위치  
+
+
+메인에서 UI로 객체생성 -> UI에서 DAO쪽으로 요청(저장,삭제등등) -> DAO가 실제 DB에있는 것들을 읽어오거나 저장함
+							DAO가 읽어온것들을 UI에서 띄움 <- VO에 저장된것을 DAO가 읽음  
+AddressMain			 AddressUI  		AddressDAO   			AddressVO
+(최초 실행 main())		 (사용자 인터페이스)		(데이터가 있는 곳에 접근)		(관련있는 값을 저장)
+
+
+
+
+
+
+
+
+
+
+
